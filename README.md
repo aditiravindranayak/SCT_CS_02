@@ -34,7 +34,7 @@ This repository contains a simple image encryption tool using pixel manipulation
 
     Use the `files.upload()` function from the `google.colab` module to upload an image file.
 
-2. **Run the Script:**
+2. **Run the Script**
 
 
 3. **Download Encrypted and Decrypted Images:**
