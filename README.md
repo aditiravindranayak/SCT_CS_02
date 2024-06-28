@@ -21,7 +21,7 @@ This repository contains a simple image encryption tool using pixel manipulation
 1. **Install Pillow:**
 
     ```bash
-    pip install Pillow
+    !pip install Pillow
     ```
 
 2. **Run the Script:**
